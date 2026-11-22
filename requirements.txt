@@ -1,0 +1,7 @@
+openai-agents>=0.3
+mcp>=1.2,<2   # v2 renamed FastMCP; this project uses the v1 API
+python-dotenv>=1.0
+oracledb>=2.2
+sentence-transformers>=3.0
+pypdf>=4.0
+pytest>=8.0
